@@ -1,2 +1,2 @@
 # Real-Back-Arrow
-Simple Chrome extension
+A simple Chrome extension
